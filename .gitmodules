@@ -1,3 +1,3 @@
 [submodule "firmware"]
 	path = firmware
-	url = https://github.com/gnea/grbl-Mega.git
+	url = https://github.com/rubeniskov/grbl-Mega.git
